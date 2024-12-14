@@ -115,11 +115,11 @@ Make sure to replace `your_google_api_key_here` with your actual Google API key.
 ## Screenshots
 
 <img width="1440" alt="Screenshot 2024-12-14 at 5 20 47 PM" src="https://github.com/user-attachments/assets/f350a192-02c4-4e3a-9497-baabb7931827" />
-## 
+
 <img width="1440" alt="Screenshot 2024-12-14 at 5 26 18 PM" src="https://github.com/user-attachments/assets/0f55616c-01e0-4313-a327-68428154659f" />
-## 
+
 <img width="1440" alt="Screenshot 2024-12-14 at 5 25 56 PM" src="https://github.com/user-attachments/assets/cc00eb01-5432-433a-83fc-e7181fc26c58" />
-## 
+
 <img width="1440" alt="Screenshot 2024-12-14 at 5 20 38 PM" src="https://github.com/user-attachments/assets/b98cffd5-39e3-4b64-a91e-fe1c1eff60da" />
 
 ## Acknowledgements
